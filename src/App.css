@@ -1,5 +1,38 @@
-/* .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
+.container {
+  max-width: 100%;
+}
+h2 {
+  text-align: center;
+}
+
+.product {
+  border: 1px solid #ccc;
+  margin: 5px;
+}
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.col-price {
+  font-size: 1.2em;
+  color: red;
+  font-weight: bold;
+}
+
+.col-desc {
+  font-style: italic;
+  color: violet;
+}
+
+.submit {
+  background-color: rgb(61, 61, 185);
+  color: #ccc;
+  margin-bottom: 5px;
+  margin-right: 1px;
+}
+
+.detail {
+  background-color: red;
+  margin-bottom: 10px;
+}

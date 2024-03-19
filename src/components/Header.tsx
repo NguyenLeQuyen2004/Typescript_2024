@@ -1,23 +1,22 @@
-import { NavLink } from 'react-router-dom'
+import Container from 'react-bootstrap/Container'
+import Nav from 'react-bootstrap/Nav'
+import Navbar from 'react-bootstrap/Navbar'
 
-export const Header = () => {
+function Header() {
   return (
-    <ul>
-      <li>
-        <NavLink to='/' className='nav-link'>
-          Home
-        </NavLink>
-      </li>
-      <li>
-        <NavLink to='/login' className='nav-link'>
-          Login
-        </NavLink>
-      </li>
-      <li>
-        <NavLink to='/register' className='nav-link'>
-          Register
-        </NavLink>
-      </li>
-    </ul>
+    <>
+      <Navbar bg='light' data-bs-theme='light'>
+        <Container>
+          <Navbar.Brand href='/'>Navbar</Navbar.Brand>
+          <Nav className='me-auto'>
+            <Nav.Link href='/'>Home</Nav.Link>
+            <Nav.Link href='/login'>Login</Nav.Link>
+            <Nav.Link href='/register'> Register</Nav.Link>
+          </Nav>
+        </Container>
+      </Navbar>
+    </>
   )
 }
+
+export default Header

@@ -1,11 +1,10 @@
 // import { Header } from '../components/Header'
-import ProductList from '../components/ProductList'
+import ProductList from '@/components/ProductList'
 
 const Home = () => {
   return (
     <div>
       {/* <Header /> */}
-      <h2>List Product</h2>
       <ProductList />
     </div>
   )

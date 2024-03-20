@@ -1,5 +1,18 @@
+/* header */
+
+.active {
+  color: violet;
+}
+
+.navLink {
+  color: blue;
+  margin: 10px;
+}
+
 .container {
-  max-width: 100%;
+  padding: 0;
+  margin: 10px;
+  box-sizing: border-box;
 }
 h2 {
   text-align: center;
@@ -24,7 +37,6 @@ h2 {
   font-style: italic;
   color: violet;
 }
-
 .submit {
   background-color: rgb(61, 61, 185);
   color: #ccc;
@@ -36,7 +48,6 @@ h2 {
   background-color: red;
   margin-bottom: 10px;
 }
-
 .footer {
   text-align: center;
   background-color: #ccc;

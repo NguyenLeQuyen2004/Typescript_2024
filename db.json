@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "title": "iPhone 9",
+      "title": "Asus vivobook",
       "description": "An apple mobile which is nothing like apple",
       "price": 549,
       "discountPercentage": 12.96,
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "title": "iPhone X",
+      "title": "Macbook air m1",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
       "price": 899,
       "discountPercentage": 17.94,
@@ -39,7 +39,7 @@
     },
     {
       "id": 3,
-      "title": "Samsung Universe 9",
+      "title": "HP Pavilion 15-DK1056WM",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
       "price": 1249,
       "discountPercentage": 15.46,
@@ -52,7 +52,7 @@
     },
     {
       "id": 4,
-      "title": "OPPOF19",
+      "title": "Hp 240 g9-i3",
       "description": "OPPO F19 is officially announced on April 2021.",
       "price": 280,
       "discountPercentage": 17.91,
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "title": "Huawei P30",
+      "title": "Asus vivobook 15",
       "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
       "price": 499,
       "discountPercentage": 10.58,
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "title": "MacBook Pro",
+      "title": "Dell inspiron",
       "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
       "price": 1749,
       "discountPercentage": 11.02,
@@ -106,7 +106,7 @@
     },
     {
       "id": 7,
-      "title": "Samsung Galaxy Book",
+      "title": "Dell inspiron 15",
       "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
       "price": 1499,
       "discountPercentage": 4.15,
@@ -143,7 +143,7 @@
     },
     {
       "id": 9,
-      "title": "Infinix INBOOK",
+      "title": "Hp-pavilion-15-eg2081tu",
       "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
       "price": 1099,
       "discountPercentage": 11.83,
@@ -180,7 +180,7 @@
     },
     {
       "id": 11,
-      "title": "perfume Oil",
+      "title": "Asus tuf gaming",
       "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
       "price": 13,
       "discountPercentage": 8.4,
@@ -198,7 +198,7 @@
     },
     {
       "id": 12,
-      "title": "Brown Perfume",
+      "title": "Asus-vivobook",
       "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
       "price": 40,
       "discountPercentage": 15.66,
@@ -217,7 +217,7 @@
     },
     {
       "id": 13,
-      "title": "Fog Scent Xpressio Perfume",
+      "title": "Acer-aspire-5",
       "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
       "price": 13,
       "discountPercentage": 8.14,
@@ -236,7 +236,7 @@
     },
     {
       "id": 14,
-      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "title": "Hp-pavilion-14",
       "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
       "price": 120,
       "discountPercentage": 15.6,
@@ -254,7 +254,7 @@
     },
     {
       "id": 15,
-      "title": "Eau De Perfume Spray",
+      "title": "Acer-aspire-3",
       "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
       "price": 30,
       "discountPercentage": 10.99,
@@ -273,7 +273,7 @@
     },
     {
       "id": 16,
-      "title": "Hyaluronic Acid Serum",
+      "title": "Asus-tuf-gaming-f15",
       "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
       "price": 19,
       "discountPercentage": 13.31,
@@ -292,7 +292,7 @@
     },
     {
       "id": 17,
-      "title": "Tree Oil 30ml",
+      "title": "Hp-240-g9-i5",
       "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
       "price": 12,
       "discountPercentage": 4.09,
@@ -310,7 +310,7 @@
     },
     {
       "id": 18,
-      "title": "Oil Free Moisturizer 100ml",
+      "title": "Acer-nitro-5",
       "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
       "price": 40,
       "discountPercentage": 13.1,
@@ -329,7 +329,7 @@
     },
     {
       "id": 19,
-      "title": "Skin Beauty Serum.",
+      "title": "Acer-nitro-i5",
       "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
       "price": 46,
       "discountPercentage": 10.68,
@@ -347,7 +347,7 @@
     },
     {
       "id": 20,
-      "title": "Freckle Treatment Cream- 15gm",
+      "title": "Acer nitro 6",
       "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
       "price": 70,
       "discountPercentage": 16.99,
@@ -366,7 +366,7 @@
     },
     {
       "id": 21,
-      "title": "- Daal Masoor 500 grams",
+      "title": "Apple macbook air m2",
       "description": "Fine quality Branded Product Keep in a cool and dry place",
       "price": 20,
       "discountPercentage": 4.81,
@@ -383,7 +383,7 @@
     },
     {
       "id": 22,
-      "title": "Elbow Macaroni - 400 gm",
+      "title": "Asus gaming f15",
       "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
       "price": 14,
       "discountPercentage": 15.58,
@@ -400,7 +400,7 @@
     },
     {
       "id": 23,
-      "title": "Orange Essence Food Flavou",
+      "title": "Asus vivobook 15 oled",
       "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
       "price": 14,
       "discountPercentage": 8.04,
@@ -419,7 +419,7 @@
     },
     {
       "id": 24,
-      "title": "cereals muesli fruit nuts",
+      "title": "Hp pavilion 14",
       "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
       "price": 46,
       "discountPercentage": 16.8,
@@ -438,7 +438,7 @@
     },
     {
       "id": 25,
-      "title": "Gulab Powder 50 Gram",
+      "title": "Dell vostro 3520",
       "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
       "price": 70,
       "discountPercentage": 13.58,
@@ -457,7 +457,7 @@
     },
     {
       "id": 26,
-      "title": "Plant Hanger For Home",
+      "title": "Acer aspire 3",
       "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
       "price": 41,
       "discountPercentage": 17.86,
@@ -477,7 +477,7 @@
     },
     {
       "id": 27,
-      "title": "Flying Wooden Bird",
+      "title": "Lenovo ideapad 3",
       "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
       "price": 51,
       "discountPercentage": 15.58,
@@ -515,7 +515,7 @@
     },
     {
       "id": 29,
-      "title": "Handcraft Chinese style",
+      "title": "Asus tuf gaming f19",
       "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
       "price": 60,
       "discountPercentage": 15.34,
@@ -534,8 +534,8 @@
     },
     {
       "id": 30,
-      "title": "Key Holder",
-      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "title": "Asus-tuf-gaming-f17",
+      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
       "price": 30,
       "discountPercentage": 2.92,
       "rating": 4.92,
@@ -548,6 +548,44 @@
         "https://cdn.dummyjson.com/product-images/30/2.jpg",
         "https://cdn.dummyjson.com/product-images/30/3.jpg",
         "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Lenovo ideapad 3",
+      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Flying Wooden",
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/309724/lenovo-ideapad-3-15itl6-i3-82h803sfvn-thumb-600x600.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/27/1.jpg",
+        "https://cdn.dummyjson.com/product-images/27/2.jpg",
+        "https://cdn.dummyjson.com/product-images/27/3.jpg",
+        "https://cdn.dummyjson.com/product-images/27/4.jpg",
+        "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "3D Embellishment Art Lamp",
+      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "LED Lights",
+      "category": "home-decoration",
+      "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/313181/itel-spirit-2-i5-71006300244-thumb-600x600.jpg",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/28/1.jpg",
+        "https://cdn.dummyjson.com/product-images/28/2.jpg",
+        "https://cdn.dummyjson.com/product-images/28/3.png",
+        "https://cdn.dummyjson.com/product-images/28/4.jpg",
+        "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg"
       ]
     }
   ],

@@ -1,6 +1,6 @@
 import Carousel from 'react-bootstrap/Carousel'
 
-function DarkVariantExample() {
+function Silde() {
   return (
     <Carousel data-bs-theme='dark'>
       <Carousel.Item>
@@ -23,4 +23,4 @@ function DarkVariantExample() {
   )
 }
 
-export default DarkVariantExample
+export default Silde

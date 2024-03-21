@@ -1,13 +1,13 @@
 export interface productType {
   id: number
   title: string
-  description: string | undefined
+  description: string
   price: number
   discountPercentage?: number
-  rating?: number | undefined
-  stock?: number | undefined
-  brand?: string | undefined
-  category?: string | undefined
-  thumbnail?: string | undefined
-  images?: string[] | undefined
+  rating?: number
+  stock?: number
+  brand?: string
+  category?: string
+  thumbnail?: string
+  images?: string[]
 }

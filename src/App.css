@@ -9,15 +9,15 @@
   margin: 10px;
 }
 
-.container {
-  padding: 0;
-  margin: 10px;
-  box-sizing: border-box;
-}
 h2 {
   text-align: center;
 }
-
+.container-silde {
+  margin: 5px;
+}
+.container-pls {
+  margin: 10px;
+}
 .product {
   border: 1px solid #ccc;
   margin: 5px;
@@ -52,4 +52,20 @@ h2 {
   text-align: center;
   background-color: #ccc;
   height: 50px;
+  clear: both;
+}
+
+.pr-detail > img {
+  float: left;
+  margin: 20px;
+}
+
+.pr-detail > p {
+  font-size: 1.2em;
+  font-style: italic;
+  color: violet;
+}
+
+.pr-detail > h5 {
+  color: red;
 }

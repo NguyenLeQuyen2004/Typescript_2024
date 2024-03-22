@@ -4,6 +4,7 @@ import instance from '@/apis'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
+import { Link } from 'react-router-dom'
 
 const ProductList = () => {
   // ! Dump component va smart component
@@ -25,12 +26,15 @@ const ProductList = () => {
   // ! DependencyList = Danh sách phụ thuộc
   return (
     <div>
-      <Container className='container'>
+      <Container className='container-pls'>
         <Row className='row'>
           {products.map((product) => (
             <Col key={product.id} className='product'>
               <img className='img' width={200} src={product.thumbnail} alt={product.title} />
-              <h4>{product.title}</h4>
+              <Link to={`/shop/${product.id}`}>
+                <h4>{product.title}</h4>
+              </Link>
+
               <p className='col-price'>Price: {product.price}</p>
               <p className='col-desc'>{product.description}</p>
               <button className='submit'>Buy now</button>

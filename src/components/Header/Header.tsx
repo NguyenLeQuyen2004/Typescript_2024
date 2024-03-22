@@ -5,7 +5,7 @@ import { Container, Navbar } from 'react-bootstrap'
 
 export const Header = () => {
   return (
-    <Container>
+    <div>
       <Navbar expand='lg' className='bg-body-tertiary'>
         <NavLink to='/' className={style.navLink}>
           Home
@@ -17,7 +17,7 @@ export const Header = () => {
           Register
         </NavLink>
       </Navbar>
-    </Container>
+    </div>
 
     // <nav className='navbar navbar-expand-lg bg-body-tertiary'>
     //   <div className='container-fluid'>

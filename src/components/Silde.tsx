@@ -4,7 +4,7 @@ import App from '@/App'
 
 function Silde() {
   return (
-    <Container className='container-silde'>
+    <div className='container-silde'>
       <Carousel data-bs-theme='dark'>
         <Carousel.Item>
           <img
@@ -27,7 +27,7 @@ function Silde() {
           <Carousel.Caption></Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-    </Container>
+    </div>
   )
 }
 

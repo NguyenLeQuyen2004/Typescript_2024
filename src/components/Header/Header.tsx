@@ -16,6 +16,9 @@ export const Header = () => {
         <NavLink to='/register' className={style.navLink}>
           Register
         </NavLink>
+        <NavLink to='/admin' className={style.navLink}>
+          Admin Page
+        </NavLink>
       </Navbar>
     </div>
 
